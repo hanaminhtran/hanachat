@@ -1,0 +1,19 @@
+{
+  "name": "hanachat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "prohairesis": "^1.2.0"
+  },
+  "keywords": [],
+  "author": "hanaminhtran",
+  "license": "ISC"
+}
